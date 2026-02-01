@@ -1,10 +1,4 @@
-# Use the help function to see what each function does.
-# Delete this when you are done.
-help(dir)
-help(hasattr)
-help(id)
-
-# Define the Vehicle class.
+# Define the Vehicle class
 class Vehicle:
     name = ""
     kind = "car"
@@ -15,4 +9,4 @@ class Vehicle:
         return desc_str
 
 # Print a list of all attributes of the Vehicle class.
-# Your code goes here
+print(dir(Vehicle))

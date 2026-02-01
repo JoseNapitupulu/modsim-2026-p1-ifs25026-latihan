@@ -1,5 +1,5 @@
 # Latihan python
 
-##Logs
+## Logs
 
 - [30/01/2025] First attempt
